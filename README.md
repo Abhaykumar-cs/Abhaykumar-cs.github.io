@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-2e6f63?style=for-the-badge)](https://abhaykumar-cs.github.io)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-b4432f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaykumark883@gmail.com)
 
 </div>
@@ -61,6 +62,7 @@ This is the source for my personal portfolio site — a single self-contained `i
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhaykumar-cs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaykumark883@gmail.com)
 
 </div>
